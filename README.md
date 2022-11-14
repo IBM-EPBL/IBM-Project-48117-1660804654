@@ -40,6 +40,12 @@ ASSINGNMENT 4
 |   AISWARYA.A|      |
 |  THASLEEMA.J|      |
 
+### PRE-REQUISITES
+
+IBM Cloud Services
+
+Software
+
 ## PROJECT DESIGNING AND PLANNING
 
 ### IDEATION PHASE

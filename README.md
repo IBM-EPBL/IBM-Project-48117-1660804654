@@ -22,3 +22,15 @@ Python IDLE Clarifai Service API
 RAM-Minimum 4GB Processor-Min. Configuration OS-Windows/Linux/MAC
 
 ### ASSINGNMENT FINISHED
+
+ASSINGNMENT 1
+
+ASSINGNMENT 2
+
+ASSINGNMENT 3
+
+ASSINGNMENT 4
+
+### LINKS
+
+|TEAM MEMBERS:

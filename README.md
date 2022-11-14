@@ -13,10 +13,10 @@ Team Member : AISWARYA.A
 
 Team Member : THALEEMA.J
 
-## SOFTWARE REQUIRED
+### SOFTWARE REQUIRED
 
 Python IDLE Clarifai Service API
 
-## SYSTEM REQUIRED
+### SYSTEM REQUIRED
 
 RAM-Minimum 4GB Processor-Min. Configuration OS-Windows/Linux/MAC

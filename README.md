@@ -40,6 +40,59 @@ ASSINGNMENT 4
 |   AISWARYA.A|      |
 |  THASLEEMA.J|      |
 
+## PROJECT DESIGNING AND PLANNING
+
+### IDEATION PHASE
+
+Liturature Survey
+
+Problem Statement
+
+Empathy Map
+
+Brainstorm
+
+### DESIGN PHASE 
+
+### DESIGN PHASE 01
+
+Problem Solution
+
+Problem-Solution fit
+
+Solution Architecture
+
+### DESIGN PHASE 02
+
+Solution Architecture
+
+Customer Journy Map
+
+Data Flow Diagram
+
+Technology Stack
+
+### PLANNING PHASE
+
+Milestone And Activity List 
+
+Sprint Delivery Plan
+
+### PROJECT DEVELOPMENT
+
+Sprint 01
+
+Sprint 02
+
+Sprint 03
+
+Sprint 04
+
+
+
+
+
+
 
 
 

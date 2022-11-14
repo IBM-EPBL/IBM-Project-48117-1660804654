@@ -35,10 +35,10 @@ ASSINGNMENT 4
 
 |TEAM MEMBERS:| LINK |
 |-------------|------|
-|   SHARMINI.S|      |
-|   NANTHINI.N|      |
-|   AISWARYA.A|      |
-|  THASLEEMA.J|      |
+|   SHARMINI.S|[CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-48117-1660804654/tree/main/ASSINGNMENT/SHARMINI.S)|
+|   NANTHINI.N|[CLICK HERE!]      |
+|   AISWARYA.A|[CLICK HERE!]      |
+|  THASLEEMA.J|[CLICK HERE!]      |
 
 ### PRE-REQUISITES
 

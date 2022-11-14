@@ -13,25 +13,25 @@ Team Member : AISWARYA.A
 
 Team Member : THALEEMA.J
 
-### SOFTWARE REQUIRED
+### :computer: SOFTWARE REQUIRED
 
 - Python IDLE Clarifai Service API
 
-### SYSTEM REQUIRED
+### :computer: SYSTEM REQUIRED
 
 - RAM-Minimum 4GB Processor-Min. Configuration OS-Windows/Linux/MAC
 
-### ASSINGNMENT FINISHED
+### :page_facing_up: ASSINGNMENT FINISHED
 
-ASSINGNMENT 1
+:heavy_check_mark: ASSINGNMENT 1
 
-ASSINGNMENT 2
+:heavy_check_mark: ASSINGNMENT 2
 
-ASSINGNMENT 3
+:heavy_check_mark: ASSINGNMENT 3
 
-ASSINGNMENT 4
+:heavy_check_mark: ASSINGNMENT 4
 
-### LINKS
+### :link: LINKS
 
 |TEAM MEMBERS:| LINK |
 |-------------|------|
@@ -40,75 +40,75 @@ ASSINGNMENT 4
 |   AISWARYA.A|[CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-48117-1660804654/tree/main/ASSINGNMENT/AISWARYA.A)|
 |  THASLEEMA.J|[CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-48117-1660804654/tree/main/ASSINGNMENT/THASLEEMA) |
 
-### PRE-REQUISITES
+### :pushpin: PRE-REQUISITES
 
-IBM Cloud Services
+:eight_pointed_black_star: IBM Cloud Services
 
-Software
+:eight_pointed_black_star: Software
 
-Create An Account In Clarifai
+:eight_pointed_black_star: Create An Account In Clarifai
 
-### CREATE AND CONFIGURE IBM CLOUD SERVICES
+### :fountain_pen:	CREATE AND CONFIGURE IBM CLOUD SERVICES
 
-Create IBM Watson IoT Platform And Device
+:eight_spoked_asterisk: Create IBM Watson IoT Platform And Device
 
-Create Node-RED Service
+:eight_spoked_asterisk: Create Node-RED Service
 
-Create A Database In Cloudant DB
+:eight_spoked_asterisk: Create A Database In Cloudant DB
 
-Create A Cloud Object Storage Service
+:eight_spoked_asterisk: Create A Cloud Object Storage Service
 
-### DEVELOP A WEB APPLICATION USING NODE-RED SERVICE
+### :memo::pencil:DEVELOP A WEB APPLICATION USING NODE-RED SERVICE
 
 - Develop A Web Application Using Node-RED Service
 
-## PROJECT DESIGNING AND PLANNING
+## :fountain_pen:	PROJECT DESIGNING AND PLANNING
 
-### IDEATION PHASE
+### :black_nib: IDEATION PHASE
 
-Liturature Survey
+:sparkle: Liturature Survey
 
-Problem Statement
+:sparkle: Problem Statement
 
-Empathy Map
+:sparkle: Empathy Map
 
-Brainstorm
+:sparkle: Brainstorm
 
-### DESIGN PHASE 
+### :hammer_and_pick:	DESIGN PHASE 
 
-### DESIGN PHASE 01
+### :paperclip: DESIGN PHASE 01
 
-Problem Solution
+:large_blue_diamond: Problem Solution
 
-Problem-Solution fit
+:large_blue_diamond: Problem-Solution fit
 
-Solution Architecture
+:large_blue_diamond: Solution Architecture
 
-### DESIGN PHASE 02
+### :paperclip: DESIGN PHASE 02
 
-Solution Architecture
+:diamond_shape_with_a_dot_inside:	 Solution Architecture
 
-Customer Journy Map
+:diamond_shape_with_a_dot_inside:	 Customer Journy Map
 
-Data Flow Diagram
+:diamond_shape_with_a_dot_inside:	 Data Flow Diagram
 
-Technology Stack
+:diamond_shape_with_a_dot_inside:	 Technology Stack
 
-### PLANNING PHASE
+### :page_with_curl: PLANNING PHASE
 
-Milestone And Activity List 
+:radio_button: Milestone And Activity List 
 
-Sprint Delivery Plan
+:radio_button: Sprint Delivery Plan
 
-### PROJECT DEVELOPMENT
+### :nazar_amulet: PROJECT DEVELOPMENT
 
-Sprint 01
+:black_square_button: Sprint 01
 
-Sprint 02
+:black_square_button: Sprint 02
 
-Sprint 03
+:black_square_button: Sprint 03
 
-Sprint 04
+:black_square_button: Sprint 04
 
 
 

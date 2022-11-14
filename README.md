@@ -46,6 +46,22 @@ IBM Cloud Services
 
 Software
 
+Create An Account In Clarifai
+
+### CREATE AND CONFIGURE IBM CLOUD SERVICES
+
+Create IBM Watson IoT Platform And Device
+
+Create Node-RED Service
+
+Create A Database In Cloudant DB
+
+Create A Cloud Object Storage Service
+
+### DEVELOP A WEB APPLICATION USING NODE-RED SERVICE
+
+- Develop A Web Application Using Node-RED Service
+
 ## PROJECT DESIGNING AND PLANNING
 
 ### IDEATION PHASE
